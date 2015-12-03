@@ -1,7 +1,7 @@
 name: VMware
 favicon: null
-layout_spectrum: 0.9092928634490818
-typography_spectrum: 0.43530413252301514
+layout_spectrum: 0.74997
+typography_spectrum: 0.75998
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5404002203140408
+    - '#0d6a8e'
+    - '#c1ce2f'
+    - '#51910d'
+    - '#ffffff'
+    - '#5d9bb3'
+  brandStrength: 1
   lightness: 0.6681113010272384
-  saturation: 0.4530496341176331
+  saturation: 1
   rhythmicContrast: 0.7452957811765373
 purpose: []
