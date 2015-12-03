@@ -2,6 +2,7 @@ name: VMware
 favicon: null
 layout_spectrum: 0.74997
 typography_spectrum: 0.75998
+title: VMware
 cta:
   domain: null
   bucket: null
